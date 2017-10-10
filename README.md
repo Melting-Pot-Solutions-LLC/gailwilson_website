@@ -13,11 +13,8 @@ Facebook - https://www.linkedin.com/in/gail-wilson-giarratanophd-0455849/
 
 <h2>Первый экран:</h2>
 1. Убрать MyResume вверху
-
 2. Убрать рамку с фотографии справа
-
 3. Найти подходящую фотографию на это место
-
 4. Соединить резюме (/html/text-rotate/resume.pdf) с кнопокой "Download CV"
 
 5. Кнопка "hire me" должна вести в самый низ страницы на контактную форму
