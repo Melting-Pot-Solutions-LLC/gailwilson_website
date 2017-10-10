@@ -1,8 +1,11 @@
 # Website for Gail Wilson (TEDx edition)
 
 Оригинальная версия сайта - http://www.ecologytheme.com/theme/myresume/text-rotate/index.html
+
 LinkedIn -  https://www.facebook.com/gail.giarratanophd
+
 Facebook - https://www.linkedin.com/in/gail-wilson-giarratanophd-0455849/
+
 
 # Нужно сделать следующее:
 <h2>Общее:</h2>
@@ -10,12 +13,19 @@ Facebook - https://www.linkedin.com/in/gail-wilson-giarratanophd-0455849/
 
 <h2>Первый экран:</h2>
 1. Убрать MyResume вверху
+
 2. Убрать рамку с фотографии справа
+
 3. Найти подходящую фотографию на это место
+
 4. Соединить резюме (/html/text-rotate/resume.pdf) с кнопокой "Download CV"
+
 5. Кнопка "hire me" должна вести в самый низ страницы на контактную форму
+
 6. Текст слева пока не менять 
+
 7. Ссылки справа привязать к FB, LinkedIn, twitter (https://twitter.com/InfoAnchorshred), убрать youtube & G+
+
 
 
 <h2>Секция about:</h2>
