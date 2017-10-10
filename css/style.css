@@ -1266,10 +1266,11 @@ footer {
 
 footer p {
     margin-bottom: 0;
+    color: white;
 }
 
 footer p a {
-    color: #ffc815;
+    color: white;
 }
 footer p a:hover{
     color: #2f4151;
