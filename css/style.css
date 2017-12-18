@@ -26,6 +26,8 @@ Tags: portfolio template, portfolio landing, html5, portfolio
 /* =====================
    Base Style
 ====================== */
+
+
 html {
     color: #222;
     font-size: 1em;
@@ -233,6 +235,7 @@ header nav ul.navbar-nav li.active a:after {
 .intro {
     min-height: 960px;
     position: relative;
+    margin-bottom: 50px;
 }
 
 .intro:before {
@@ -361,6 +364,7 @@ header nav ul.navbar-nav li.active a:after {
 .about {
     padding: 140px 0;
     background: rgba(0, 0, 0, 0.047);
+    margin-top: 50px;
 }
 
 .about .about-content .about-img {
@@ -1321,3 +1325,4 @@ footer ul li a:hover{
 .clearfix:after {
     clear: both;
 }
+
