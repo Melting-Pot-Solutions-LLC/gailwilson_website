@@ -13,19 +13,19 @@ Tags: portfolio template, portfolio landing, html5, portfolio
 1.  Base Style
 2.  Header
 3.  Intro / .intro
-4.  About / .about
-5.  Services / .service
+4.  Features / .features
+4.  About Us / .aboutUs
 6.	Portfolio / .portfolio
-7.	Testimonial / .testimonial
+7.	About Me / .aboutMe
 8.	Contact / .contact
-9.	Footer
-10.	Helper Classes
 
 ------------------------------------------------------------------- */
 
 /* =====================
    Base Style
 ====================== */
+
+
 html {
     color: #222;
     font-size: 1em;
@@ -233,6 +233,7 @@ header nav ul.navbar-nav li.active a:after {
 .intro {
     min-height: 960px;
     position: relative;
+    margin-bottom: 50px;
 }
 
 .intro:before {
@@ -1320,4 +1321,9 @@ footer ul li a:hover{
 }
 .clearfix:after {
     clear: both;
+}
+
+#features {
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
