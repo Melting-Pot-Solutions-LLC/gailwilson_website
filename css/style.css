@@ -385,7 +385,7 @@ header nav ul.navbar-nav li.active a:after {
 }
 
 .about .about-content .about-info > p {
-    margin-bottom: 70px;
+    margin-bottom: 10px;
     line-height: 29px;
 }
 
@@ -393,7 +393,7 @@ header nav ul.navbar-nav li.active a:after {
     margin-bottom: 90px;
 }
 .about-info {
-  padding-top: 43px;
+  padding-top: 0px;
 }
 .about .about-content .about-info a.about-btn {
     background: #ffc815;
