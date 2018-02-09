@@ -507,12 +507,14 @@ header nav ul.navbar-nav li.active a:after {
 .about .about-content .facts-wrap .facts-inline .facts-single .facts-counter {
     font-size: 50px;
     font-weight: 700;
+	color: #1C58AE;		
 }
 
 .about .about-content .facts-wrap .facts-inline .facts-single h4 {
     font-size: 15px;
     font-weight: 300;
     margin: 0;
+	color: #1C58AE;	
 }
 
 .about .about-content .facts-wrap .facts-inline .facts-single i {
